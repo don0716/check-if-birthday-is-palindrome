@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Bebas+Neue&family=Gluten&display=swap');
 
 body {
     margin: 0px;
     background-color: #92400E;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Gluten'
 }
 
 *{
-    margin: 0px;
+    margin: 0vh;
 }
 
 button {
@@ -20,8 +20,9 @@ button {
     display: block;
     margin: auto;
     margin-top: 5rem;
-    padding: 0.6rem 2rem;
-    font-size: larger;
+    padding: 1rem 2rem;
+    font-size: 5vh;
+    font-family: 'gluten';
 }
 
 
@@ -32,7 +33,7 @@ button {
     margin-top: 3rem;
     border-width: 0.2rem;
     border-radius: 0.5rem;
-    padding: 0.8rem 1rem;
+    padding: 1rem 5rem;
     background-color: #B45309;
     border-color: #632c09;
     font-size: large;
@@ -41,8 +42,8 @@ button {
 h1 {
     text-align: center;
     background-color: #B45309;
-    height: 8rem;
-    padding-top: 4rem;
+    height: 6rem;
+    padding-top: 2rem;
     font-size: 50px;
 
 }
@@ -50,11 +51,11 @@ h1 {
 #result {
     text-align: center;
     padding-top: 5rem;
-    font-size: 30px;
+    font-size: 5vh;
 }
 
 .message {
     text-align: center;
     margin-top: 5rem;
-    font-size: 20px;
+    font-size: 4vh;
 }
