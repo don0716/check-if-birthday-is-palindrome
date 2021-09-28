@@ -25,11 +25,11 @@ button {
 }
 
 
-input {
+#dob {
     display: block;
     cursor: text;
     margin: auto;
-    margin-top: 6rem;
+    margin-top: 3rem;
     border-width: 0.2rem;
     border-radius: 0.5rem;
     padding: 0.8rem 1rem;
@@ -51,4 +51,9 @@ h1 {
     text-align: center;
     padding-top: 5rem;
     font-size: 30px;
+}
+
+.message {
+    text-align: center;
+    margin-top: 5rem;
 }
